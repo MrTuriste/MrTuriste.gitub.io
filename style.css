@@ -1,0 +1,38 @@
+body{
+	margin-left: 200px;
+	background-color: yellow;
+	color: white;
+}
+h1{
+	color: purple;
+}
+h3{
+	color: gray;
+}
+ul.navbar{
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	width: 150px;
+	margin: 5px 0;
+	padding: 5px;
+	border-right: 1px solid #17252a;
+	border-left: 10px solid  #17252a;
+	border-bottom: 1px solid  #17252a;
+	border-top: 1px solid  #17252a;
+	
+}
+p.premier_p{
+	color: gray;
+}
+p.deuxieme_p{
+	color: purple;
+}
+
+ol{
+	color: purple;
+}
+
+ul.navbar, a{
+	text-decoration: none;
+}
